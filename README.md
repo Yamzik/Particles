@@ -19,4 +19,5 @@ The particles are rendered with usage of OpenGL with [glfw](https://github.com/g
 | [Particle.h](https://github.com/Yamzik/Particles/blob/main/Include/Particle.h) | Contains definition of *struct Particle* and *ParticleGroup* class, which is container for particles of the same color and their renderer |
 | [Shader.h](https://github.com/Yamzik/Particles/blob/main/Include/Shader.h) | Definition of *Shader* class dedicated to abstarct away OpenGL *render* program |
 | [ComputeShader.h](https://github.com/Yamzik/Particles/blob/main/Include/ComputeShader.h) | Definition of *ComputeShader* class dedicated to abstarct away OpenGL *compute* program |
-| [GpuParticleResolver](https://github.com/Yamzik/Particles/blob/main/Include/GpuParticleResolver.h) | Definition of *GpuParticleResolver* class which is used as GPU data bridge |
+| [GpuParticleResolver.h](https://github.com/Yamzik/Particles/blob/main/Include/GpuParticleResolver.h) | Definition of *GpuParticleResolver* class which is used as GPU data bridge |
+| [TestCompute.glsl](https://github.com/Yamzik/Particles/blob/main/glsl/TestCompute.glsl) | Forces computation shader |
