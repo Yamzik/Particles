@@ -1,5 +1,7 @@
 # A particles interaction model
 
+![demo](https://github.com/Yamzik/Particles/blob/main/img/demo.gif)
+
 Following forces are implemented:
 - attraction (as ~r<sup>-2</sup>)
 - repultion (as ~r<sup>-5</sup>)
